@@ -1,4 +1,1 @@
-# Project-1
-Making my first project on Github.
-<br>
-Subject name:- Open source 
+Learning Git Branching and Merging.
